@@ -23,6 +23,7 @@
 - 支付：Line Pay / Stripe
 - 前端部署於 Vercel，後端以 Docker 容器化部署於 Render，並使用 MySQL 資料庫。
 
-## 系統畫面展示
+## 畫面展示
+![系統畫面展示](https://github.com/felixven/ecommerce-frontend/blob/main/docs/shopping-addcart-flow.gif?raw=true)
 
 
