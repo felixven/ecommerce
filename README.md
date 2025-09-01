@@ -1,7 +1,7 @@
 # 電商平台 (E-commerce System)
 
 ## 系統介紹：
-本專案為以 Spring Boot + React.js 開發的電商系統，模擬線上購物商城流程，實作了會員管理、商品瀏覽、購物結帳與支付金流等功能。
+本專案為 Spring Boot + React.js 開發的電商系統，模擬線上購物商城流程，實作了會員管理、商品瀏覽、購物結帳與支付金流等功能。
 
 ## 前後端完整原始碼：
 - 前端：[E-commerce Frontend](https://github.com/felixven/ecommerce-frontend.git)
