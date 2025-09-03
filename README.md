@@ -16,6 +16,10 @@
 |--------|--------------------- |----------|
 | User1  | user1@example.com    |admin123  |
 | User2  |user2@example.com    |user123   |
+- 此專案使用 Line Pay Sandbox 模擬付款流程，無實際金流。
+- Stripe付款：
+   - 卡號：4242 4242 4242 4242
+   - 卡片到期日需晚於當前日期（例如 12/34），驗證碼可輸入任意 3 碼
 
 ## 使用技術：
 - 前端：Vite / React.js / Tailwind.css
