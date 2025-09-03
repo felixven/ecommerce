@@ -13,10 +13,10 @@
 - 可使用以下資料登入網頁，請輸入 **帳號或電郵** 和密碼。  
 - 也歡迎註冊新帳密進行登入。
 
-|帳號     |電郵                   |密碼      |
-|--------|--------------------- |----------|
-| User1  | user1@example.com    |admin123  |
-| User2  |user2@example.com    |user123   |
+|帳號      |電郵                   |密碼        |
+|-------- |--------------------- |------------|
+| user1   |user1@example.com     |password1   |
+| guest1  |guest1@gmail.com      |guest1      |
 - 此專案使用 Line Pay Sandbox 模擬付款流程，無實際金流。
 - Stripe付款：
    - 卡號：4242 4242 4242 4242
