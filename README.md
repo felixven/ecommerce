@@ -9,6 +9,7 @@
 
 ## 系統展示：
 - Demo網址：https://ecommerce-frontend-ylwz.vercel.app/
+- **此 Demo 使用 Render Free Tier，閒置超過 15 分鐘會休眠，首次運行需等待伺服器喚醒。**
 - 可使用以下資料登入網頁，請輸入 **帳號或電郵** 和密碼。  
 - 也歡迎註冊新帳密進行登入。
 
